@@ -111,7 +111,7 @@ url-pretty: "https://dineshresearch.github.io/"  # eg. "deanattali.com/beautiful
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: ""
+disqus: "dineshresearch"
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""
