@@ -11,5 +11,4 @@ My name is Amara Dinesh Kumar. I have the following qualities:
 - Intrested in Future technologies
 What else do you need?
 
-# my history
 
