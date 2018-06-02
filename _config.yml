@@ -33,7 +33,7 @@ navbar-links:
  #   - Raspberrypi related: "raspberrypi"
   #  - Nvidia Jetson releated: "jetson"
   Papers:
-    - 
+   # - 
     - Novel Deep Learning Model for Traffic Sign Detection Using Capsule Networks:"https://arxiv.org/abs/1805.04424"
   #Author's home: "http://deanattali.com"
 
